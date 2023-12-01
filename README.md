@@ -49,3 +49,31 @@
     -Escolha a opção '5' para visualizar o estoque de medicamentos de um paciente. Informe o nome do paciente.
     -Escolha a opção '6' para sair do programa.
     O programa continuará em execução até que a opção '6' seja escolhida para sair do sistema.
+    
+# Requisitos funcionais do código:
+
+    1. Cadastro de Usuários:
+    -Permite adicionar novos usuários ao sistema.
+    
+    2. Adição de Receitas Médicas:
+    -Possibilita associar uma receita médica a um usuário existente.
+    
+    3. Gerenciamento de Estoque:
+    -Adicionar ou remover medicamentos ao estoque de um usuário.
+    -Verificar o estoque atual de medicamentos de um usuário.
+    
+    4. Visualização de Receitas e Estoque:
+    -Mostrar as receitas médicas associadas a um usuário.
+    -Exibir o estoque de medicamentos de um usuário.
+    
+    5. Interatividade via Terminal:
+    -O programa interage com o usuário por meio de um menu de opções, onde são 
+     solicitadas entradas para realizar operações específicas.
+# Requisitos não funcionais:
+
+    1. Console/Terminal:
+    -A interação com o programa é feita por meio do terminal.
+    
+    2. Simplicidade:
+    -Este código é um exemplo simplificado e não é adequado para uso em ambientes 
+     de produção ou sistemas reais sem modificações e melhorias consideráveis.
