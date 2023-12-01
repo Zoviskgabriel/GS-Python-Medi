@@ -74,6 +74,3 @@
     1. Console/Terminal:
     -A interação com o programa é feita por meio do terminal.
     
-    2. Simplicidade:
-    -Este código é um exemplo simplificado e não é adequado para uso em ambientes 
-     de produção ou sistemas reais sem modificações e melhorias consideráveis.
