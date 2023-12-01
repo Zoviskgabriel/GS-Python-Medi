@@ -73,4 +73,9 @@
 
     1. Console/Terminal:
     -A interação com o programa é feita por meio do terminal.
+
+# Video Explicativo
+
+https://youtu.be/2RgO52bCxGE?si=_icoLKWKH8y7LQV4
+
     
