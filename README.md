@@ -20,7 +20,7 @@
 
     O menu permite ao peciente escolher entre as opções disponíveis para cadastrar um novo paciente, adicionar
     uma receita,  gerenciar o estoque, exibir receitas ou exibir o estoque de um usuário específico. O loop 
-    continua até que o paciente escolha a opção para sair do sistema.
+    continuará em execução até que o paciente escolha a opção para sair do sistema. 
 
 *Funcionalidades disponíveis:*
 
