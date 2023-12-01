@@ -24,7 +24,7 @@
 
 *Funcionalidades disponíveis:*
 
-    '1' Cadastrar novo usuário: Permite adicionar um novo paciente ao sistema.
+    1. Cadastrar novo usuário: Permite adicionar um novo paciente ao sistema.
     2. Adicionar receita médica a um paciente: Adiciona uma receita médica ao paciente específico.
     3. Gerenciar estoque de um paciente: Permite adicionar ou remover medicamentos do estoque de um paciente.
     4. Exibir receitas médicas de um usuário: Mostra todas as receitas médicas associadas a um paciente.
